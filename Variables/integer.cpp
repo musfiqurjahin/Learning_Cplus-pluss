@@ -7,7 +7,7 @@ int main()
     int age = 21;
     int year = 2026;
     int days = 23;
-    int day =12;
+    int day = 12;
 
     // double (number including decimal)
     double price = 10.99;
@@ -32,10 +32,9 @@ int main()
     std::string month = "January";
 
     std::cout << "Hello my name is, " << name << "!" << '\n';
-    std::cout << "I'm " << age << " years old " << "by " << year  << " as of " << month << " " << day <<"th" <<"." <<'\n';
+    std::cout << "I'm " << age << " years old " << "by " << year << " as of " << month << " " << day << "th" << "." << '\n';
     std::cout << "My favrite dish is " << food << " curry." << '\n';
-    std::cout << "My homeland is in " << address << "." <<'\n' ; 
-
+    std::cout << "My homeland is in " << address << "." << '\n';
 
     return 0;
 }
