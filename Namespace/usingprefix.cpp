@@ -18,10 +18,6 @@ namespace second {
 }
 
 int main()  {
-
-    int x = 0 ;
-
-
     //using prefix:
     using namespace second;
 
