@@ -1,15 +1,15 @@
 #include <iostream>
 
 /*Type conversion = conversion a value of one data type to another*/
-//implicit = automatic
-//Explicit = Precede value with new data type (int)
+// implicit = automatic
+// Explicit = Precede value with new data type (int)
 
-int main() {
+int main()
+{
 
+    // conv using ascii table
 
-    //conv using ascii table
-
-    std::cout << (char) 100;
+    std::cout << (char)100;
 
     return 0;
 }

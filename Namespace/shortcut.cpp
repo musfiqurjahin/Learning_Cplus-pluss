@@ -1,18 +1,18 @@
 #include <iostream>
 
-int main() {
+int main()
+{
 
-    //using namespace std;
+    // using namespace std;
 
     using std::cout;
     using std::string;
 
-    //std::string name = "Jahin"
+    // std::string name = "Jahin"
     string name = "Jahin";
 
-    //stdd::cout << "Hello " << name;
+    // stdd::cout << "Hello " << name;
     cout << "Hello " << name;
-
 
     return 0;
 }
